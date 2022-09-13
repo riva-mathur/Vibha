@@ -5,7 +5,7 @@ Choose one of the files to create(You don't have to add any of the functionaliti
  - DFW Main Page - Ekansh Agrawal
  - Other Main Page
  - Other More Page
- - About Vibha Dallas Page
+ - About Vibha Dallas Page - Aryan Gandhi
 
 You can find details about each page here: https://docs.google.com/document/d/1yNAALrpz73bPMEkziucxcEo0harJcaQHBRzsftLWrzk/edit?usp=sharing
 
