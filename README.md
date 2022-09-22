@@ -3,7 +3,7 @@ Choose one of the files to create(You don't have to add any of the functionaliti
 
  - Information Page
  - DFW Main Page - Ekansh Agrawal
- - Other Main Page
+ - Other Main Page - Riva Mathur
  - Other More Page
  - About Vibha Dallas Page - Aryan Gandhi
 
